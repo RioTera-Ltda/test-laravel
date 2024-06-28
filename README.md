@@ -6,7 +6,7 @@ Avaliar as habilidades do candidato em Laravel, compreensão e análise de requi
 
 ## Requisitos
 
-1. Usar Laravel 10.x ou 11.X;
+1. Usar Laravel 10.x ou 11.x;
 2. Implementar um sistema simples de autenticação;
 3. Criar uma funcionalidade CRUD (Create / Read / Update / Delete) para duas entitades: Hotels e Rooms;
 4. A tabela Hotels tem os seguintes campos: **name** (obrigatório / único), **address** (obrigatório), **city** (obrigatório), **state** (obrigatório), **zip_code** (obrigatório), **website**;
